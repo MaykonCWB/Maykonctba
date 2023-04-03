@@ -1,8 +1,12 @@
 # Olá eu sou Maykon Melo 🤙🏿
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykonmelo88/)
 
-[![Gitshowcase](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)](https://www.gitshowcase.com/maykonctba/)
+<div style="display: inside_block" margin-botton="10">
+<a href="https://www.linkedin.com/in/maykonmelo88/" target="_blank"><img align="center" alt="linkedin"                              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.gitshowcase.com/maykonctba" target="_blank"><img align="center" alt="gitshowcase"                              src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" /> 
+<br>
+</div>
+  
 
 <picture>
 <source 
@@ -19,8 +23,7 @@
 
 
 ## Tecnologias que uso no meu dia a dia 👇🏿
-<div style="display: inside_block"><br/>
-
+<div style="display: inside_block">
 <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="react native"                              src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank">
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
