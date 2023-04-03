@@ -2,8 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykonmelo88/)
 
-[![Gitshowcase](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)]([https://www.instagram.com/maykonmelo_/](https://www.gitshowcase.com/maykonctba))
-
+[![Gitshowcase](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)]([https://www.gitshowcase.com/maykonctba/](https://www.gitshowcase.com/maykonctba))
 
 <picture>
 <source 
