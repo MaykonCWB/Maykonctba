@@ -4,6 +4,19 @@
 
 [![Gitshowcase](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)]([https://www.instagram.com/maykonmelo_/](https://www.gitshowcase.com/maykonctba))
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Maykonctba&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Maykonctba&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Maykonmelo&show_icons=true" />
+</picture>
+
 
 ## Tecnologias que uso no meu dia a dia 👇🏿
 <div style="display: inside_block"><br/>
